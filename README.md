@@ -10,6 +10,6 @@ To correctly use this script it is only required to pass a source directory in t
 py ./path_to_script ./path_to_source_directory
 
 ### Optional Agruments
-`-h` get Help on usage
-`-l` define the maximum depth to be reached while flattening
-`-t` target folder where files should be placed on flattening
+- `-h` get Help on usage
+- `-l` define the maximum depth to be reached while flattening
+- `-t` target folder where files should be placed on flattening
